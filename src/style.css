@@ -337,13 +337,14 @@
   border: none;
 }
 
-.card i {
-  transform: scale(2.8);
-  margin: 10px 0px;
+.card img {
+  transform: scale(0.5);
+  margin: 5px 0px;
   color: var(--cust-color);
 }
 
 .card h5 {
+  margin-top: -40px;
   font-size: 16px;
   color: var(--cust-color);
 }
